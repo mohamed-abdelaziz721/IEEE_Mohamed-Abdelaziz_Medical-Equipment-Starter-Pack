@@ -1,6 +1,4 @@
-
-
-#IEEE_Mohamed-Abdelaziz_Medical-Equipment-Starter-Pack
+# IEEE_Mohamed-Abdelaziz_Medical-Equipment-Starter-Pack
 ## Magnetic Resonance Imaging
 This is a brief introduction for MRI regarding MRI Physics, T1 and T2 Relaxation, Pulse Sequences, Parameters, and Image Artifacts.
 ![MRI](MRI.png)
